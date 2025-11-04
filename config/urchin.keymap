@@ -89,7 +89,7 @@
 			label = "Symbols";
 			bindings = <
 			&kp GRAVE &kp AT &kp LT &kp GT &kp AMPS						&kp CARET &kp LBRC &kp RBRC &kp DOLLAR &kp BSLH
-			&hml LSHIFT PIPE2 &hml LGUI STAR &hml LALT PLUS &hml LCTRL EQUAL &kp UNDERSCORE	&kp HASH &hmr LCRTL LPAR &hmr LALT RPAR &hmr LGUI DQT &kp SQT
+			&hml LSHIFT PIPE2 &hml LGUI STAR &hml LALT PLUS &hml LCTRL EQUAL &kp UNDERSCORE	&kp HASH &hmr LCTRL LPAR &hmr LALT RPAR &hmr LGUI DQT &kp SQT
 			&kp TILDE &kp SLASH &kp MINUS &kp EXCL &kp PERCENT				&none &kp LBKT &kp RBKT &kp SEMI &kp COLON
 					&htt_shift LSHIFT ESC  &kp TAB       &kp ENTER &kp SPACE
 			>;
