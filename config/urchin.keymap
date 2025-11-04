@@ -112,7 +112,7 @@
 			bindings = <
 			&none &none &none &none &none					&kp K_COPY  &kp K_UNDO &kp K_REDO &kp K_CUT &kp K_PASTE
 			&kp LSHIFT &kp LGUI &kp LALT &kp LCTRL &none			&kp LEFT &kp DOWN &kp UP &kp RIGHT &kp BACKSPACE
-			&none &none &none &none &none					&kp HOME &kp PG_DOWN &kp PG_UP &kp END  &kp DEL
+			&none &none &none &none &none					&kp HOME &kp PG_DN &kp PG_UP &kp END  &kp DEL
 							&htt_shift LSHIFT ESC &kp TAB    &kp ENTER  &kp SPACE 
 			>;
 		};
