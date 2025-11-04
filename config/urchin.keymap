@@ -52,7 +52,7 @@
 		    tapping-term-ms = <280>;
 		    quick-tap-ms = <175>;
 		    bindings = <&mo>, <&kp>;
-	}
+		};
 	};
 
 	combos {
@@ -68,8 +68,7 @@
 			require-prior-idle-ms = <50>;
 			key-positions = <32 33>; // Left and right outer thumbs
 			bindings = <&kp RALT>;
-		}
-	}
+		};
 	};
 
 	keymap {
