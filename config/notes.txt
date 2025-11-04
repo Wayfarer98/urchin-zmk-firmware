@@ -1,0 +1,22 @@
+5 Layers:
+0 Base
+1 SYM
+2 NUM_FN
+3 NAV
+4 BT
+
+Home row mods:
+        Index, LCTRL
+        middle, LALT
+        ring, LGUI
+        pinky, LSHIFT
+
+Thumb keys: // Inner is with respect to the half, so right inner is the right thumb key on the right half
+        Left inner: ESC and LSHIFT
+        left outer: TAB, NUM_FN
+        right inner: SPACE, SYM
+        right outer: ENTER, NAV
+
+Combos:
+        Keys 31, 34: BT layer   // This is the two innermost thumbkeys
+        keys 32, 33: RALT       // Used as the compose key
