@@ -58,15 +58,13 @@
 	combos {
 		compatible = "zmk,combos";
 		combo_bt {
-			timeout-ms = <50>;
-			require-prior-idle-ms = <100>;
-			key-positions = <31 34>; // Left and right inner thumbs
-			bindings = <&mo BT>;
+			timeout-ms = <100>;
+			key-positions = <25 26>; // B and N
+			bindings = <&to BT>;
 		};
 		combo_ralt { // Used for the compose key
-			timeout-ms = <50>;
-			require-prior-idle-ms = <50>;
-			key-positions = <32 33>; // Left and right outer thumbs
+			timeout-ms = <100>;
+			key-positions = <14 17>; // F and J
 			bindings = <&kp RALT>;
 		};
 	};
