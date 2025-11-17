@@ -59,12 +59,12 @@
 		compatible = "zmk,combos";
 		combo_bt {
 			timeout-ms = <100>;
-			key-positions = <25 26>; // B and N
+			key-positions = <24 25>; // B and N
 			bindings = <&to BT>;
 		};
 		combo_ralt { // Used for the compose key
 			timeout-ms = <100>;
-			key-positions = <14 17>; // F and J
+			key-positions = <13 16>; // F and J
 			bindings = <&kp RALT>;
 		};
 	};
